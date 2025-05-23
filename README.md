@@ -1,4 +1,4 @@
-# 🛡️ Network Security ML Pipeline
+# 🛡️ End-to-End ML Pipeline with ETL, FastAPI, MongoDB, Docker, and Model Training
 
 This project implements a complete machine learning pipeline for network security applications. It includes data ingestion, validation, transformation, model training, and deployment via a FastAPI web interface. The pipeline uses MongoDB for data storage and is containerized with Docker.
 
